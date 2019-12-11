@@ -70,7 +70,10 @@ Version beta testée et fonctionnant sur les versions :
 
 - Best Friends : https://support.snapchat.com/fr-FR/a/best-friends
 
+## Requirements
 
+* lxml
+* pillow
 
 ## Licence
 
