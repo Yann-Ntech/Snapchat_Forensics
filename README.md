@@ -2,7 +2,7 @@
 
 **`Snapchat_Forensics`** est un outil permettant d'analyser le contenu de l'application **` com.snapchat.android `**
 
-Les outils professionnels classiques ne permettant pas d'exploiter ces données, cet outil permet de récupérer :
+Les outils professionnels classiques ne permettant pas d'exploiter ces données, cet outil permet ainsi d'obtenir un rapport contenant :
 ```
 - Messages textes 
 - Données de localisation, 
@@ -49,7 +49,20 @@ Version beta fonctionnant sur les versions :
 
 ## Extrait de résultats
 
+- Apercu général :
+![Extrait](https://github.com/Yann-Ntech/Snapchat_Forensics/blob/master/Extraits_R%C3%A9sultats/extrait_1.PNG)
 
+- Messages :
+![Extrait](https://github.com/Yann-Ntech/Snapchat_Forensics/blob/master/Extraits_R%C3%A9sultats/extrait_2.PNG)
+
+- Activité :
+![Extrait](https://github.com/Yann-Ntech/Snapchat_Forensics/blob/master/Extraits_R%C3%A9sultats/extrait_3.PNG)
+
+- Media :
+![Extrait](https://github.com/Yann-Ntech/Snapchat_Forensics/blob/master/Extraits_R%C3%A9sultats/extrait_4.PNG)
+
+- Géolocalisation :
+![Extrait](https://github.com/Yann-Ntech/Snapchat_Forensics/blob/master/Extraits_R%C3%A9sultats/extrait_5.PNG)
 
 ## Licence
 
