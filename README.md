@@ -68,21 +68,21 @@ Version beta testée et fonctionnant sur les versions :
 
 GNU General Public License v3.0
 
-## Historique
+## Historique & Futures Mises à jour
 
-Snapchat_Forensics est basé en partie sur la ré-écriture de SQLite_Analyzer, sans intégrer le module de recherche de mots-clés.
+Snapchat_Forensics est basé sur la future ré-écriture de SQLite_Analyzer, sans y intégrer divers modules.
 
-## Futures Mises à jour
+Plusieurs intégrations sont en cours :
 
-- Ajout des thumbs de vidéos dans le rapport - ffmpeg
+- Ajout des thumbs vidéos dans le rapport via ffmpeg
 
 - Configparser pour mise à jour rapide des requêtes SQL comme pour SQLite_Analyzer 
+
+- Module de recherche de mots clés de SQLite_Analyzer à ré-écrire.
 
 - Argparse si nécessaire
 
 - Prise en charge des anciennes versions utilisant tcspahn.db
-
-- Module de recherche de mots clés de SQLite_Analyzer à ré-écrire.
 
 ## Auteur
 
