@@ -47,17 +47,6 @@ Version beta testée et fonctionnant sur les versions :
 - 10.60.2.0 Beta
 - 10.66.5.0
 
-## Futures Mises à jour
-
-- Ajout des thumbs de vidéos dans le rapport - ffmpeg
-
-- Configparser pour mise à jour rapide des requêtes SQL comme pour SQLite_Analyzer 
-
-- Argparse si nécessaire
-
-- Prise en charge des anciennes versions utilisant tcspahn.db
-
-
 ## Fonctionnement Application Snapchat
 
 - Suppression des Snaps : https://support.snapchat.com/fr-FR/a/when-are-snaps-chats-deleted
@@ -78,6 +67,22 @@ Version beta testée et fonctionnant sur les versions :
 ## Licence
 
 GNU General Public License v3.0
+
+## Historique
+
+Snapchat_Forensics est basé en partie sur la ré-écriture de SQLite_Analyzer, sans intégrer le module de recherche de mots-clés.
+
+## Futures Mises à jour
+
+- Ajout des thumbs de vidéos dans le rapport - ffmpeg
+
+- Configparser pour mise à jour rapide des requêtes SQL comme pour SQLite_Analyzer 
+
+- Argparse si nécessaire
+
+- Prise en charge des anciennes versions utilisant tcspahn.db
+
+- Module de recherche de mots clés de SQLite_Analyzer à ré-écrire.
 
 ## Auteur
 
