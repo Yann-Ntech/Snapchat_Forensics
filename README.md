@@ -18,6 +18,11 @@ dans les fichiers xml ou des bases de données.
 
 Quelques ajustations rapides du code seront nécessaires afin de gérer les diverses erreurs rencontrées.
 
+## Fonctionnement
+
+- Extraire le dossier com.snapchat.android et l'insérer à la racine du script avant execution.
+- Le rapport Html est ensuite généré à la racine.
+
 ## Extraits de résultats
 
 - Apercu général :
