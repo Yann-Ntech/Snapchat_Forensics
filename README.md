@@ -1,6 +1,6 @@
 # Snapchat_Forensics
 
-**`Snapchat_Forensics`** est un outil destiné aux experts / analystes / dfir, permettant d'analyser le contenu de l'application **` com.snapchat.android `**
+**`Snapchat_Forensics`** est un outil destiné aux experts judiciaires / analystes voir même aux dfir (vecteur d'attaque sur BYOD etc), permettant d'analyser le contenu de l'application **` com.snapchat.android `**
 
 Les outils professionnels classiques ne permettant pas d'exploiter ces données, cet outil permet ainsi d'obtenir un rapport contenant entre autres :
 ```
